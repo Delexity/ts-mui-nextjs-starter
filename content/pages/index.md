@@ -6,9 +6,8 @@ sections:
     title: Delexity
     subtitle: Welcome!
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      Welcome to Delexity's Website!, please contact me if you want more games
+      to be added.
     actions:
       - type: Button
         label: Start Building
